@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "139799728284",
+    "project_id": "flash-4c7d7",
+    "storage_bucket": "flash-4c7d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139799728284:android:62bc49a2dc90ad04ca5d59",
+        "android_client_info": {
+          "package_name": "com.immortal.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139799728284-gston1f7jr394aod4f8ojfobr50lofn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE1DDLv6841OVH_YC9aw_F2nKMM_5iKO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139799728284-gston1f7jr394aod4f8ojfobr50lofn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
